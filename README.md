@@ -1,1 +1,1 @@
-# AnalyzingSentimentData : Amazone fine foodModel:Argorithm:Concept:
+# AnalyzingSentimentObject discussing: Bag of Words method- Advantage and Disadvantage- TF-IDF (next chapter)Data : Amazone fine foods reviewLink data: http://snap.stanford.edu/data/web-FineFoods.htmlModel: Bag of WordsArgorithm: - Decision Tree- Random Forest- AdaBoost- Naive BaeysConcept:- Stop Words- Lemmatization
